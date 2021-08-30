@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap');
+
+.EveryThing{
+    text-align: center;
+    padding: 250px;
+    font: 25px Quicksand, sans-serif;
+    color: white;
+}
+
+.EveryThing a{
+    color: rgb(250, 220, 165);
+}
+
+.Buttons li {
+    text-align: center;
+    list-style-type: none;
+    padding: 10px;
+    display: inline;
+    background-color: #7c7a7a;
+    border-radius: 5%;
+}
+
+
